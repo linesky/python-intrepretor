@@ -17,6 +17,6 @@ def sline(argvs):
 				
 	f1.close()
 	
-	
+print("\x1bc\x1b[44;37m")	
 if sys.argv[1]!="":
 	sline(sys.argv[1])
